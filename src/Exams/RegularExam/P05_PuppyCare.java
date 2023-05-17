@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Exams.RegularExam;
+package Exams.RegularExam;
 
 import java.util.Scanner;
 

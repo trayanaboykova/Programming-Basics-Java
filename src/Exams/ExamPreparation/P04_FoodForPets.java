@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Exams.ExamPreparation;
+package Exams.ExamPreparation;
 
 
 import java.util.Scanner;

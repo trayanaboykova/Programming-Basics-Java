@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Exams.MoreExams.E05;
+package Exams.MoreExams.E05;
 
 public class P02_Skeleton {
 }
