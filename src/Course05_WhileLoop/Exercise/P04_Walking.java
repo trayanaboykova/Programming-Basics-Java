@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course05_WhileLoop.Exercise;
+package Course05_WhileLoop.Exercise;
 
 import java.util.Scanner;
 
