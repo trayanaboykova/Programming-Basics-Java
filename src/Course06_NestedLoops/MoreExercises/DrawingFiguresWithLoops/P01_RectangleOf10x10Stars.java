@@ -1,0 +1,4 @@
+package Module01_ProgrammingBasics.Course06_NestedLoops.MoreExercises.DrawingFiguresWithLoops;
+
+public class P01_RectangleOf10x10Stars {
+}
