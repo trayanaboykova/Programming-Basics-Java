@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course06_NestedLoops.Exercise;
+package Course06_NestedLoops.Exercise;
 
 import java.util.Scanner;
 
