@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course02_ConditionalStatements.Lab;
+package Course02_ConditionalStatements.Lab;
 
 import java.util.Scanner;
 
