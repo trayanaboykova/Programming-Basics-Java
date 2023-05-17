@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course03_ConditionalStatementsAdvanced.MoreExercises;
+package Course03_ConditionalStatementsAdvanced.MoreExercises;
 
 import java.util.Scanner;
 

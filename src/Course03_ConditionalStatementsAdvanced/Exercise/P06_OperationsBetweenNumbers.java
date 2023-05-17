@@ -1,8 +1,8 @@
-package Module01_ProgrammingBasics.Course03_ConditionalStatementsAdvanced.Exercise;
+package Course03_ConditionalStatementsAdvanced.Exercise;
 
 import java.util.Scanner;
 
-public class OperationsBetweenNumbers {
+public class P06_OperationsBetweenNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

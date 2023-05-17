@@ -1,8 +1,8 @@
-package Module01_ProgrammingBasics.Course03_ConditionalStatementsAdvanced.Exercise;
+package Course03_ConditionalStatementsAdvanced.Exercise;
 
 import java.util.Scanner;
 
-public class Cinema {
+public class P01_Cinema {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

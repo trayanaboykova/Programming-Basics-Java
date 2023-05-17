@@ -1,8 +1,8 @@
-package Module01_ProgrammingBasics.Course03_ConditionalStatementsAdvanced.Exercise;
+package Course03_ConditionalStatementsAdvanced.Exercise;
 
 import java.util.Scanner;
 
-public class OnTimeForTheExam {
+public class P08_OnTimeForTheExam {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
