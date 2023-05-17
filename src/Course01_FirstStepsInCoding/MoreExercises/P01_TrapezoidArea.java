@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course01_FirstStepsInCoding.MoreExercises;
+package Course01_FirstStepsInCoding.MoreExercises;
 
 import java.util.Scanner;
 

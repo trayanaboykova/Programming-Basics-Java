@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course01_FirstStepsInCoding.Lab;
+package Course01_FirstStepsInCoding.Lab;
 
 import java.util.Scanner;
 

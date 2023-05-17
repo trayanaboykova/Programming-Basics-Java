@@ -1,4 +1,4 @@
-package Module01_ProgrammingBasics.Course01_FirstStepsInCoding.Lab;
+package Course01_FirstStepsInCoding.Lab;
 
 public class P02_Numbers1To10 {
     public static void main(String[] args) {
