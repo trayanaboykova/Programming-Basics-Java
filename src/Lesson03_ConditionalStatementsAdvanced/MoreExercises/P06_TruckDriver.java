@@ -42,7 +42,7 @@ public class P06_TruckDriver {
                 break;
         }
 
-        double salary = (kilometersPerMonth * payPerKilometer * 4) * 0.90; // salary for 4 months after taxes
+        double salary = (kilometersPerMonth * payPerKilometer * 4) * 0.90;
 
         System.out.printf("%.2f", salary);
     }
