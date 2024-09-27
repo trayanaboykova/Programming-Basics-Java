@@ -24,7 +24,7 @@ During the while-loop module, I learned about creating loops that execute as lon
 **[Nested Loops](https://github.com/trayanaboykova/Programming-Basics-Java/tree/master/src/Lesson06_NestedLoops)**: <br>
 The nested loops module introduced the concept of having one loop inside another in Java. During the course, I learned how to work with nested loops to perform operations on each element of basic data structures. I gained proficiency in utilizing nested loops to solve various coding problems that involve repetitive actions and iteration.
 
-*By completing the "Programming Basics with Java" course, I have acquired the basics in Java programming. I am now equipped with knowledge of Java syntax, conditional statements, loop constructs, and problem-solving techniques using Java.*
+*By completing the [Programming Basics with Java Course](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022), I have acquired the basics in Java programming. I am now equipped with knowledge of Java syntax, conditional statements, loop constructs, and problem-solving techniques using Java.*
 
 # Certificate
 <a href="https://softuni.bg/certificates/details/134595/710e8d86" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/225559811-ed4dc164-5dbf-42dd-aa09-3bca9bf4d1ec.png" alt="Programming Basics with Java"></a>
