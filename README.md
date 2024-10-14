@@ -1,5 +1,5 @@
 # Programming Basics with Java
-Coding exercises and projects from my education at <a href="www.softuni.bg">SoftUni</a>
+Coding exercises and projects from my education at <a href="https://softuni.bg/">SoftUni</a>
 <br>
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests/#!/List/ByCategory/246/Java-Basics">Programming Basics with Java</a>
 <br>
