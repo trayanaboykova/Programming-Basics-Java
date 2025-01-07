@@ -4,7 +4,7 @@ Coding exercises and projects from my education at <a href="https://softuni.bg/"
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests/#!/List/ByCategory/246/Java-Basics">Programming Basics with Java</a>
 <br>
 
-<b>Course Curriculum: Programming Basics with Java</b>
+<b>Course Curriculum: [Programming Basics with Java Course](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022)</b>
 
 **[First Steps In Coding](https://github.com/trayanaboykova/Programming-Basics-Java/tree/master/src/Lesson01_FirstStepsInCoding)**: <br>
 In this introductory module, I covered the basics of programming using Java. I learned about fundamental concepts, syntax, and the structure of Java programs.
